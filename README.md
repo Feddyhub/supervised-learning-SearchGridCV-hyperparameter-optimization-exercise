@@ -6,3 +6,12 @@
 --> lutfen feedback 
 
 Tesekkurler :)))
+
+![WhatsApp Image 2024-07-24 at 21 35 25](https://github.com/user-attachments/assets/ee670e55-5613-400d-8b01-20cbed2234ee)
+
+## xGboost Bilgisayara yuklerken sikinti yasayanlar icin (cok ugrastim)
+1-https://www.youtube.com/watch?v=ukmFD6nCExg&t=181s.   (klasik cozum her video temelde bunu anlatiyor bende calismadi)
+2-https://www.youtube.com/watch?v=o7FiS9dWQj0 (jupyter icin bende calisti)
+
+--searchgridCV icin gerekli hyperparametreler icin parantez icine shift+tab basmaniz yeterli (sklearn documentsde daha detayli bakabilirsiniz)
+https://www.youtube.com/watch?v=o7FiS9dWQj0
