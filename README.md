@@ -1,4 +1,4 @@
-## gridSearchCV nin optimizasyonu gorece cok uzun surdugu icin (15 dakika) en sondaki plotlari calistirmadim. 
+## gridSearchCV nin optimizasyonu gorece cok uzun surdugu icin (35 dakika) en sondaki plotlari calistirmadim. 
 #### oncesinde kendim hepsini denedim calisiyor, jupyter notebook kapat ac yaptiktan sonra tekrar yapma ihtiyaci duymadim.
 
 
