@@ -15,4 +15,5 @@ Tesekkurler :)))
 
 ## searchgridCV icin gerekli hyperparametreler icin parantez icine shift+tab basmaniz yeterli (sklearn documentsde daha detayli bakabilirsiniz)
 
-![Uploading WhatsApp Image 2024-07-25 at 09.37.50.jpeg…]()
+
+![WhatsApp Image 2024-07-25 at 09 37 50](https://github.com/user-attachments/assets/7698f6cd-6c13-4295-9665-4d83488f811d)
