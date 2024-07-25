@@ -13,5 +13,6 @@ Tesekkurler :)))
 1-https://www.youtube.com/watch?v=ukmFD6nCExg&t=181s.   (klasik cozum her video temelde bunu anlatiyor bende calismadi)
 2-https://www.youtube.com/watch?v=o7FiS9dWQj0 (jupyter icin bende calisti)
 
---searchgridCV icin gerekli hyperparametreler icin parantez icine shift+tab basmaniz yeterli (sklearn documentsde daha detayli bakabilirsiniz)
-https://www.youtube.com/watch?v=o7FiS9dWQj0
+## searchgridCV icin gerekli hyperparametreler icin parantez icine shift+tab basmaniz yeterli (sklearn documentsde daha detayli bakabilirsiniz)
+
+![Uploading WhatsApp Image 2024-07-25 at 09.37.50.jpeg…]()
